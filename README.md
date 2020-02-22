@@ -49,7 +49,7 @@ save the profile then reopen the powershell, if everything is ok, you will see t
 
 open your oh-my-posh theme folder (~\Documents\WindowsPowerShell\Modules\oh-my-posh\<version>\Themes\), then create a file like `mytheme.psm1`, you can also copy my theme `BayMax.psm1` to this folder.
 
-more about create your own theme please look up oh-my-posh (README.md)[https://github.com/JanDeDobbeleer/oh-my-posh].
+more about create your own theme please look up oh-my-posh [README.md](https://github.com/JanDeDobbeleer/oh-my-posh).
 
 use the command `Set-Theme mytheme` in PowerShell to test the output, if everything is done, edit the profile and modify `Set-Theme mytheme`, then reopen Powershell.
 
